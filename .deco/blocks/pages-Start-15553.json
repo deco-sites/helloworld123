@@ -3,12 +3,9 @@
   "path": "/",
   "sections": [
     {
-      "__resolveType": "website/sections/Rendering/Lazy.tsx",
-      "section": {
-        "__resolveType": "site/sections/ItWorks.tsx",
-        "name": "<p>It Works!</p>",
-        "count": 1
-      }
+      "__resolveType": "site/sections/ItWorks.tsx",
+      "name": "<p>Hello world</p>",
+      "count": 10
     },
     {
       "__resolveType": "Footer"

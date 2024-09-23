@@ -57,7 +57,6 @@ export default function Section({ name = "It Works!", count = 0 }: Props) {
             <span class="loading loading-spinner hidden [.htmx-request_&]:inline" />
           </button>
         </div>
-        <div class="text-sm">Powered by HTMX</div>
       </div>
     </div>
   );
